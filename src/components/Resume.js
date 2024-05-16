@@ -1,6 +1,6 @@
 import React from 'react'
 import resumeImg from "../assets/resume.jpg"
-import resume from "../assets/Kaviya Frontend Developer Resume.pdf"
+import resume from "../assets/kaviya Frontend development Resume.pdf"
 
 const Resume = () => {
   return (
